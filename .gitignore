@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+yolo-coco/yolov3.weights
+ 
